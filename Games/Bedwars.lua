@@ -681,7 +681,7 @@ local NoFall = Player.MakeToggle({
 -- RektSky
 
 local ArrayListEnabled = false
-local nigger2 = loadstring(readfile('RektskyRoblox/ArrayList.lua'))()
+local nigger2 = loadstring(game:HttpGet("https://raw.githubusercontent.com/RIPKoala/RIP-WARE/main/ArrayList.lua"))()
 local ArrayListBLack = RektSky.MakeToggle({
     Name = 'ArrayList',
     Callback = function(blackmonkeywatermelon)
