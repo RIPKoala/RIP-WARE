@@ -1,4 +1,4 @@
-local UILib = loadstring(readfile('RektskyRoblox/UiLibrary.lua'))()
+local UILib = loadstring(game:HttpGet("https://raw.githubusercontent.com/RIPKoala/RIP-WARE/main/UiLIbrary.lua"))()
 
 local window = UILib.MakeWindow()
 
